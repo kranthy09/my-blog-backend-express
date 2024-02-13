@@ -1,3 +1,8 @@
 node_modules
 mongo-db-data
-credentails.json
+credentials.json
+build
+app.yaml
+prod-env.yaml
+.env
+.gcloudignore
